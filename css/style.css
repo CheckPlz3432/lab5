@@ -9,3 +9,9 @@ th {
   width: 20.01%;
   padding: 10px;
 }
+
+.row::after {
+  content:"";
+  clear: both;
+  display: table;
+}
