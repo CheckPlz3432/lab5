@@ -3,3 +3,9 @@ th {
   font-weight: bold;
   font-family: verdana;
 }
+
+#besideother {
+  float: left;
+  width: 20%;
+  padding: 10px;
+}
