@@ -3,15 +3,3 @@ th {
   font-weight: bold;
   font-family: verdana;
 }
-
-#besideother {
-  float: right;
-  width: 20.01%;
-  padding: 10px;
-}
-
-.row::after {
-  content:"";
-  clear: both;
-  display: table;
-}
