@@ -15,7 +15,15 @@ td {
   height: auto:
 }
 
-th {
+.detailtitle {
+  color: green;
+  font-size: 75px;
+  font-weight: bold;
+  text-align: center;
+  height: 20%;
+}
+
+.planettitle {
   color: green;
   font-size: 75px;
   font-weight: bold;
