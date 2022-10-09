@@ -1,24 +1,5 @@
-#websiteTitle {
-  color: blue;
-  font-weight: bold;
-}
-
-#planetHeader {
-  color: blue;
-}
-
-#dataHeader {
-  color: blue;
-}
-
-#planetNameStyling {
+th {
   color: blue;
   font-weight: bold;
   font-family: verdana;
 }
-
-#dataValueStyling {
-  color: blue;
-}
-
-
