@@ -3,3 +3,8 @@ th {
   font-weight: bold;
   font-family: verdana;
 }
+
+table {
+  width: 100%;
+  text-align: center;
+}
