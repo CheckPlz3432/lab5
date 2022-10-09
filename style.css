@@ -1,5 +1,24 @@
-th {
+#websiteTitle {
+  color: blue;
+  font-weight: bold;
+}
+
+#planetHeader {
+  color: blue;
+}
+
+#dataHeader {
+  color: blue;
+}
+
+#planetNameStyling {
   color: blue;
   font-weight: bold;
   font-family: verdana;
 }
+
+#dataValueStyling {
+  color: blue;
+}
+
+
