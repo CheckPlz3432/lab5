@@ -7,9 +7,18 @@ td {
   color: blue;
   font-size: 30px;
   font-family: DejaVu Sans Mono, monospace;
+  width: 50%;
 }
 
 .image {
   font-size: 200px;
   height: auto:
+}
+
+th {
+  color: green;
+  font-size: 75px;
+  font-weight: bold;
+  text-align: center;
+  height: 20%;
 }
