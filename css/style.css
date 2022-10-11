@@ -3,15 +3,24 @@ table, tr, td {
   text-align: center;
 }
 
+.data {
+  font-size: 100px;
+  text-align: center;
+  font-family: Verdana, sans-serif;
+
 .image {
   width: 200px;
   height: auto:
 }
 
 th {
-  color: blue;
-  font-size: 40px;
+  color: purple;
+  font-size: 70px;
   font-weight: bold;
   text-align: center;
   font-family: DejaVu Sans Mono, monospace;
 }
+
+.planetName {
+  color: blue;
+  }
