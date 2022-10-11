@@ -14,7 +14,8 @@ table, tr, td {
   height: 100px:
 }
 
-.planetName {
+.dataName {
+  font-size: 200px;
   color: blue;
   font-family: DejaVu Sans Mono, monospace;
   }
