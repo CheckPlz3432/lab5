@@ -9,14 +9,14 @@ th {
   font-family: DejaVu Sans Mono, monospace;
 }
 
+.image {
+  width: 250px;
+  height: auto;
+}
+
 .data {
   color: purple;
   font-size: 80px;
   text-align: center;
   font-family: Verdana, sans-serif;
-}
-
-.image {
-  width: 250px;
-  height: auto;
 }
