@@ -4,6 +4,7 @@ table, tr, td {
 }
 
 .data {
+  color: purple;
   font-size: 100px;
   text-align: center;
   font-family: Verdana, sans-serif;
@@ -13,14 +14,7 @@ table, tr, td {
   height: auto:
 }
 
-th {
-  color: purple;
-  font-size: 70px;
-  font-weight: bold;
-  text-align: center;
-  font-family: DejaVu Sans Mono, monospace;
-}
-
 .planetName {
   color: blue;
+  font-family: DejaVu Sans Mono, monospace;
   }
