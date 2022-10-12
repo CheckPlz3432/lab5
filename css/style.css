@@ -1,5 +1,5 @@
 html, body {
-  background-image: url("..Images/Space.jpg");
+  background-image: url("../Images/Space.jpg");
   height: fit-content;
   background-size: cover;
   background-repeat: no-repeat;
