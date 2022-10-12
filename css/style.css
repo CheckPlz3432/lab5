@@ -9,6 +9,7 @@ html, body {
 table, tr, td {
   width: 100%;
   text-align: center;
+  table-layout: fixed;
 }
 
 th {
