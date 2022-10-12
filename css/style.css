@@ -12,12 +12,13 @@ table, tr, td {
 }
 
 th {
-  font-size: 50px;
+  font-size: 40px;
   color: blue;
   font-family: DejaVu Sans Mono, monospace;
 }
 
 h1 {
+  color: white;
   text-align: center;
   font-weight: bold;
   font-family: Gill Sans, sans-serif;
