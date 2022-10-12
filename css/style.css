@@ -11,7 +11,7 @@ table, tr, td {
 }
 
 th {
-  font-size: 60px;
+  font-size: 50px;
   color: blue;
   font-family: DejaVu Sans Mono, monospace;
 }
@@ -23,7 +23,7 @@ th {
 
 .data {
   color: purple;
-  font-size: 50px;
+  font-size: 30px;
   text-align: center;
   font-family: Verdana, sans-serif;
 }
