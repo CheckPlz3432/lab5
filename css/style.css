@@ -1,3 +1,9 @@
+html, body {
+  background-image: url(
+  height: fit-content;
+  background-size: cover;
+  background-position: center;
+
 table, tr, td {
   width: 100%;
   text-align: center;
