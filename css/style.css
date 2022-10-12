@@ -1,7 +1,8 @@
 html, body {
-  background-image: url(..Images/Space
+  background-image: url("..Images/Space.jpg");
   height: fit-content;
   background-size: cover;
+  background-repeat: no-repeat;
   background-position: center;
 
 table, tr, td {
